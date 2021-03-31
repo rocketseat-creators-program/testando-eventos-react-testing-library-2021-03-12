@@ -1,10 +1,12 @@
 <img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
 
-# Testando componentes com react testing library
+# Testando eventos com react testing library
 
-Nesse vídeo vamos falar sobre testes de renderização de componentes com React Testing Library e Jest.
+Nesse vídeo vamos falar sobre testes de eventos do usuário com React Testing Library e Jest.
 
-Nele nós vamos ver os testes de componentes com props default e como testar mudanças nessas propriedades, depois que o componente foi renderizado, no contexto dos testes.
+Nele nós vamos ver os testes de eventos do usuário utilizando o a API fireEvent e através de eventos dos elementos HTML.
+
+Testaremos inclusive um evento de change com uma estratégia de debounce num elemento de input.
 
 ## Expert
 
